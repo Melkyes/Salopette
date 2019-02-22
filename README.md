@@ -1,0 +1,2 @@
+# Salopette
+Bot Discord
